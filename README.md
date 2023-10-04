@@ -1,4 +1,4 @@
-# DDS-AD9959-Arduino-Shield
+# Fewer Resource Ionospheric Chirpsounder Key
 4-Channels DDS (Direct Digital Synthesis) Analog Devices AD9959 Arduino Shield by GRA &amp; AFCH
 
 Web-site: https://gra-afch.com
